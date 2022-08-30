@@ -1,6 +1,6 @@
 ### Ansible for ClickHouse 
 
-Ansible role for provisioning ClickHouse server.
+Ansible role for provisioning ClickHouse server. (forked)
 
 ### Known Caveats
 
